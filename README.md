@@ -3,11 +3,6 @@
 <head>
      <link rel="icon" href="images/icon.png">
 	<meta charset="utf-8">
-	
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
 
 
 </head>
@@ -126,34 +121,6 @@
 	</div>
 </section>
 
-<!-- footer section -->
-<footer>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 col-sm-12">
-				<p><a href="index-blue.html">See in Blue</a></p>
-				<ul class="social-icons">
-					              <li><a target="_blank" href="https://www.facebook.com/mehedeetalha" class="fa fa-facebook"></a><br>
-              </li>
-              <li><a target="_blank" href="https://www.twitter.com/mehedeetalha" class="fa fa-twitter"></a><br>
-              </li>
-              <li><a target="_blank" href="https://www.instagram.com/mehedeehasantalha" class="fa fa-instagram"></a><br>
-              </li>
-              <li><a target="_blank" href="https://www.linkedin.com/in/mehedee-hasan-talha-77721a190/" class="fa fa-linkedin"></a><br>
-              </li>
-              <li><a target="_blank" href="https://www.youtube.com/channel/UC3dYmHc2zjOJABDCKlMHR-w?view_as=subscriber" class="fa fa-youtube"></a><br>
-              </li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</footer>
-
-<!-- javascript js -->	
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>	
-<script src="js/jquery.backstretch.min.js"></script>
-<script src="js/custom.js"></script>
 
 </body>
 </html>
