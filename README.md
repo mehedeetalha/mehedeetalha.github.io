@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <link rel="icon" href="images/icon.png">
+
 	<meta charset="utf-8">
 
 
