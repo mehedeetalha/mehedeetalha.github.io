@@ -2,32 +2,7 @@
 <html lang="en">
 <head>
 
-	<meta charset="utf-8">
 
-
-</head>
-<body data-spy="scroll" data-target=".navbar-collapse">
-
-<!-- preloader section -->
-<div class="preloader">
-	<div class="sk-spinner sk-spinner-wordpress">
-       <span class="sk-inner-circle"></span>
-     </div>
-</div>
-
-<!-- header section -->
-<header>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 col-sm-12">
-				<img src="images/profile.jpg" class="img-responsive img-circle tm-border" alt="profile picture">
-				<hr>
-				<h1 class="tm-title bold shadow">Hi, I am Mehedee Hasan Talha</h1>
-				<h1 class="white bold shadow">An Educational Utopians</h1>
-			</div>
-		</div>
-	</div>
-</header>
 
 <!-- about and skills section -->
 <section class="container">
