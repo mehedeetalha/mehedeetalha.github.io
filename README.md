@@ -3,16 +3,13 @@
 <head>
      <link rel="icon" href="images/icon.png">
 	<meta charset="utf-8">
-	<title>Mehedee Hasan Talha</title>
+	
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 
-<!-- stylesheet css -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/mht-orange.css">
+
 </head>
 <body data-spy="scroll" data-target=".navbar-collapse">
 
